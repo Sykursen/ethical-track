@@ -1,4 +1,7 @@
 ! Matomo
-@@/piwik.php
-@@/piwik.js
-@@||*/matomo/*
+@@||/piwik.php
+@@||/piwik.js$script
+@@||/matomo/*
+
+! PageSpeed Beacon
+@@||/mod_pagespeed_beacon$xhr
