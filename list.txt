@@ -1,7 +1,7 @@
 ! Matomo
 @@||/piwik.php
 @@||/piwik.js$script
-@@||/matomo/*
+@@||*/matomo/*
 
 ! PageSpeed Beacon
-@@||/mod_pagespeed_beacon$xhr
+@@||/mod_pagespeed_beacon*$xhr
