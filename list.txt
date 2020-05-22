@@ -1,3 +1,7 @@
+! Ethical-Track list
+! Set of rules to allow ethical tracking tools
+! Author: Sykursen
+!
 ! Matomo
 @@||/piwik.php
 @@||/piwik.js$script
